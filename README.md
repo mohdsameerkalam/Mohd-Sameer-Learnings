@@ -1,2 +1,2 @@
-# Mohd-Sameer-Learnings
-practice codes during my learning of fastapi
+# Fastapi-Learnings
+here i have uploaded the notes and the codes i have done during learning fastapi
