@@ -1,0 +1,51 @@
+{
+    "E1": {
+        "name": "Sameer",
+        "Roll_No": 401810,
+        "gender": "male",
+        "marks": 8
+    },
+    "E3": {
+        "name": "Ayesha",
+        "Roll_No": 401811,
+        "gender": "female",
+        "marks": 8
+    },
+    "E4": {
+        "name": "Aashi",
+        "Roll_No": 401813,
+        "gender": "female",
+        "marks": 6
+    },
+    "E5": {
+        "name": "Sam",
+        "Roll_No": 401814,
+        "gender": "male",
+        "marks": 8
+    },
+    "E6": {
+        "name": "shivam",
+        "Roll_No": 401815,
+        "gender": "male",
+        "marks": 8
+    },
+    "E7": {
+        "name": "Shhhh",
+        "Roll_No": 401816,
+        "gender": "male",
+        "marks": 2
+    },
+    "E8": {
+        "name": "Shoeib",
+        "Roll_No": 401817,
+        "gender": "male",
+        "marks": 8
+    },
+    "E9": {
+        "name": "himanshi",
+        "Roll_No": 0,
+        "gender": "female",
+        "marks": 3.0,
+        "cgpa": "fail"
+    }
+}
